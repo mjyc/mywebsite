@@ -1,0 +1,32 @@
+---
+---
+
+<div class="bib-entry" id="{{ entry.key }}">
+    <span class="title">{{ entry.title }} {{ entry.key }}</span>
+
+
+    {% capture venue %}
+    {% if entry.booktitle %}{{ entry.booktitle }}{% else if entry.journal %}{{ entry.journal }}{% endif %}{% endcapture %}
+
+
+    {% capture pdf_link %}/assets/pdfs/{{ entry.key }}.pdf{% endcapture %}
+    {% for file in site.static_files %}
+    {% if file.path == pdf_link %}
+    <a href="{{ pdf_link }}">[pdf]</a>
+    {% break %}
+    {% endif %}
+    {% endfor %}
+    <a class="bib-button">[bib]</a>
+    {% if entry.video %}
+    <a href="{{ entry.video }}">[video]</a>
+    {% endif %}
+    <!-- {% cite_details entry.key --text [details] %} -->
+<br />
+    <span>{{ venue }}, {{ entry.year }}</span><br />
+    <span class="authors">{{ entry.author }}</span>
+
+    <pre hidden="true">{{ entry.bibtex }}</pre>
+    {% if entry.note %}
+    <span class="note">{{entry.note}}</span>
+    {% endif %}
+</div>
