@@ -1,14 +1,14 @@
 ---
 ---
 
-<div class="bib-entry" id="{{ entry.key }}">
+<div class="bib" id="{{ entry.key }}">
   {% if entry.type != "media" %}
     {% capture venue %}{% if entry.booktitle %}{{ entry.booktitle }}{% else if entry.journal %}{{ entry.journal }}{% endif %}{% endcapture %}
     <b>{{ entry.title }}</b>
     <br>
-    <i>{{ venue }}, {{ entry.year }}</i>
+    {{ entry.author }}
     <br>
-    <span>{{ entry.author }}</span>
+    In <i>{{ venue }}</i>, {{ entry.year }}
     <br>
     {% capture pdf_link %}/assets/pdfs/{{ entry.key }}.pdf{% endcapture %}
     {% capture poster_link %}/assets/pdfs/{{ entry.key }}_poster.pdf{% endcapture %}

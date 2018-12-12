@@ -1,0 +1,45 @@
+---
+---
+
+@import "minima";
+
+/**
+ * Links
+ */
+a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $brand-color;
+  }
+
+  &:hover {
+    color: $brand-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+/**
+ * Bib
+ */
+
+/*.bibliography {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+.bib {
+  margin-bottom: 1rem;
+}
+*/
