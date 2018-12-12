@@ -5,20 +5,15 @@
   {% if entry.type != "media" %}
     {% capture venue %}{% if entry.booktitle %}{{ entry.booktitle }}{% else if entry.journal %}{{ entry.journal }}{% endif %}{% endcapture %}
     <b>{{ entry.title }}</b>
+    <br>
+    <i>{{ venue }}, {{ entry.year }}</i>
+    <br>
+    <span>{{ entry.author }}</span>
+    <br>
     {% capture pdf_link %}/assets/pdfs/{{ entry.key }}.pdf{% endcapture %}
     {% capture poster_link %}/assets/pdfs/{{ entry.key }}_poster.pdf{% endcapture %}
     {% capture slides_link %}/assets/pdfs/{{ entry.key }}_slides.pdf{% endcapture %}
     {% capture supp_link %}/assets/pdfs/{{ entry.key }}_supp.pdf{% endcapture %}
-    <!-- {% for file in site.static_files %}
-      {% if file.path == pdf_link %}
-        <a href="{{ pdf_link }}">[pdf]</a>
-      {% else if file.path == poster_link %}
-        <a href="{{ poster_link }}">[poster]</a>
-      {% else if file.path == slides_link %}
-        <a href="{{ slides_link }}">[slides]</a>
-      {% else %} <span>file.path</span>
-      {% endif %}
-    {% endfor %} -->
     {% for file in site.static_files %}{% if file.path == pdf_link %}
       <a href="{{ pdf_link }}">[pdf]</a>
       {% break %}
@@ -44,10 +39,6 @@
     {% if entry.details %}
       <a href="{{ entry.details }}">[details]</a>
     {% endif %}
-    <br>
-    <span>{{ venue }}</span>
-    <br>
-    <span>{{ entry.author }}</span>
   {% else %}
     <a href="{{ entry.url }}">{{ entry.title }},</a>
     <span>{{ entry.howpublished }},</span>
