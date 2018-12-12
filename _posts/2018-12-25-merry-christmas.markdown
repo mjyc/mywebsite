@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Merry Christmas!"
-date:   2018-11-25 23:01:26 -0800
+date:   2018-12-25 23:01:26 -0800
 ---
 
 This Christmas, I'm giving this world a present--my nearly empty blog page!
