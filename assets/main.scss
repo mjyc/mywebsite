@@ -1,0 +1,53 @@
+---
+---
+
+$base-font-family: Lato, Helvetica, Arial, sans-serif !default;
+$base-font-size: 18px !default;
+
+$brand-color: #e6550d !default;
+$background-color: whitesmoke !default;
+
+
+
+@import "minima";
+
+
+
+/**
+ * Links
+ */
+a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $brand-color;
+  }
+
+  &:hover {
+    color: $brand-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+
+/**
+ * Bibliography
+ */
+
+.bibliography {
+  list-style: square;
+}
+
+.bib {
+  margin-bottom: 0.5rem;
+}
+
