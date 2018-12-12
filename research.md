@@ -4,9 +4,9 @@ title: research
 permalink: /research/
 ---
 
-<!-- My research interests are human-robot interaction and machine learning.
+My research is on human-robot interaction.
 
-See my publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=avud6aAAAAAJ&view_op=list_works&sortby=pubdate) -->
+<!-- See my publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=avud6aAAAAAJ&view_op=list_works&sortby=pubdate) -->
 
 ## Conference Papers
 
