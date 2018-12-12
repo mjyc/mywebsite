@@ -1,7 +1,17 @@
 ---
 ---
 
+$base-font-family: Lato, Helvetica, Arial, sans-serif !default;
+$base-font-size: 18px !default;
+
+$brand-color: #e6550d !default;
+$background-color: whitesmoke !default;
+
+
+
 @import "minima";
+
+
 
 /**
  * Links
@@ -28,18 +38,16 @@ a {
   }
 }
 
+
 /**
- * Bib
+ * Bibliography
  */
 
-/*.bibliography {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-
+.bibliography {
+  list-style: square;
 }
 
 .bib {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
-*/
+
