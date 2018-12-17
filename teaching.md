@@ -6,6 +6,7 @@ permalink: /teaching/
 
 ## Classes
 
+* [CSEP590B Robotics Guest Instructor](https://courses.cs.washington.edu/courses/csep590b/18sp/), 2018
 * [CSE481 Robotics Capstone Course Teaching Assistant](http://courses.cs.washington.edu/courses/cse481c/13au/), 2013
 * [CSE481 Robotics Capstone Course Teaching Assistant](http://courses.cs.washington.edu/courses/cse481c/11au/), 2011
 
