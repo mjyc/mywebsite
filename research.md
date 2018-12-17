@@ -4,9 +4,7 @@ title: research
 permalink: /research/
 ---
 
-My research is on human-robot interaction.
-
-<!-- See my publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=avud6aAAAAAJ&view_op=list_works&sortby=pubdate) -->
+I enjoy thinking about robotics, esp., human-robot interaction.
 
 ## Conference Papers
 
