@@ -26,6 +26,8 @@ permalink: /teaching/
 
 ## Outreach
 
+* Research in Computing Presentation, 2019
+* Engineering Discovery Days, 2018
 * Engineering Discovery Days, 2018
 * Gyeonggibuk Science High School Students Savioke Visit Day, 2016
 * [Computing Open House](https://www.facebook.com/media/set/?set=a.937550346273223.1073741871.416582038370059), 2014
