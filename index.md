@@ -7,3 +7,5 @@ I'm a graduate student in Computer Science and Engineering department at Univers
 My advisors are Rajesh Rao and Maya Cakmak.
 
 Check out my [research](./research), [teaching](./teaching), or [GitHub](https://github.com/mjyc) page!
+
+<img src="{{ site.baseurl }}/assets/imgs/home.jpg">
