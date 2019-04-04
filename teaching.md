@@ -28,7 +28,6 @@ permalink: /teaching/
 
 * Research in Computing Presentation, 2019
 * Engineering Discovery Days, 2018
-* Engineering Discovery Days, 2018
 * Gyeonggibuk Science High School Students Savioke Visit Day, 2016
 * [Computing Open House](https://www.facebook.com/media/set/?set=a.937550346273223.1073741871.416582038370059), 2014
 * [DawgBytes-High School Girl's Summer Camp Session 2, 2014](https://www.facebook.com/media/set/?set=a.631276730233921.1073741834.416582038370059)
