@@ -4,7 +4,7 @@ title: "Collaborating with Undergraduate Students as a Graduate Student in Resea
 date: 2019-06-04 00:00:00 -0800
 ---
 
-Although there are great blog posts on this topic of "how to work with undergraduate students" from veterans in the field [[1](https://homes.cs.washington.edu/~mernst/advice/undergrad-research.html),[2](https://www.cs.cornell.edu/~asampson/blog/)], I have my own take on this topic so here I wrote down the process I came up with from working with truly amazing undergraduate students I met over my graduate school years.
+Although there are great blog posts on this topic of "how to work with undergraduate students" from veterans in the field [[1](https://homes.cs.washington.edu/~mernst/advice/undergrad-research.html),[2](https://www.cs.cornell.edu/~asampson/blog/undergrads.html)], I have my own take on this topic so here I wrote down the process I came up with from working with truly amazing undergraduate students I met over my graduate school years.
 
 #### Step 1: Identify your goal.
 
