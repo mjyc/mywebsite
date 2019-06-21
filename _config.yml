@@ -4,7 +4,8 @@ description: ""
 baseurl: "/~mjyc" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mjyc_
-github_username:  mjyc
+github_username: mjyc
+google_analytics: "UA-142528997-1"
 
 # Build settings
 markdown: kramdown
@@ -14,7 +15,7 @@ plugins:
 
 # jekyell-scholar settings
 scholar:
-  bibliography_template: 'bib'
-  repository: '/assets/pdfs'
-  sort_by: 'year,month'
-  order: 'descending'
+  bibliography_template: "bib"
+  repository: "/assets/pdfs"
+  sort_by: "year,month"
+  order: "descending"
