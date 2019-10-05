@@ -20,9 +20,9 @@ Personally, I like to set my initial goal as getting help on a concrete and smal
 #### Step 1.5: Find a student.
 
 The easiest approach is doing nothing.
-In the University setting, motivated undergraduate students email your advisor or you directly trying to get involved in the research.
+In a University setting, motivated undergraduate students will email your advisor or you to get involved in a research project and you should be wanting to work with those motivated students.
 The obvious pro of this approach is that you don't need to do anything.
-The downside is that you cannot control the timing and sometimes even the project topic.
+The downside is that you cannot control the timing and sometimes even the project topic you'll be collaborating on.
 For example, your advisor may email you to work with a student who comes with their own funding and research topic over the summer.
 
 The second easiest approach is attending "undergraduate research fair" type events hosted by your department or University.
@@ -33,46 +33,54 @@ If you can elaborate kind of students you are looking for clearly, your peers or
 Compare to the "attending research fairs" approach, this approach can help you find "the student" you are looking but with a low probability of actually finding one.
 
 I tend to take both the first and third approaches.
-The downside of the two approaches are having no control in the timing but if you have multiple projects running at different stages all the time, you always have a project to collaborate with, so timing becomes less of an issue than finding a talented, passion-sharing student.
+The downside of the two approaches are having no control in the timing but if you have multiple projects going at different stages all the time, you always have a project to collaborate with, so timing becomes less of an issue than finding a talented, passion-sharing student.
 
 Finding a student requires you to have an interview strategy.
 For this topic, I highly recommend checking out Michael Ernst's ["Tips for interviewing undergraduates for research"](https://homes.cs.washington.edu/~mernst/advice/interviewing-undergraduates.html).
 
 #### Step 2: Identify your student's goal.
 
-Understanding your student's goal is as important as understanding your own goal for a healthy and delightful collaboration relationship.
+Understanding your student's goal is as important as understanding your own goal for a healthy collaboration relationship.
 
-From my experience, the most common motivation of undergraduate students was getting exposed to robotics research.
-For the older students who are closer to graduate, they were often motivated by expanding their skill sets to be prepared for the companies they want to apply.
-I also have been met students who wanted to publish an academic paper before applying for a graduate school to boost their application.
+From my experience, the most common motivation of the undergraduate students I've work with was getting exposed to robotics research.
+For the older students who are closer to graduate, they were also motivated by expanding their skill sets to make themselves more attractive to the companies they want to apply to.
+There were also some students who wanted to publish an academic paper before they apply to a graduate school to strengthen their application.
 
 I found that it is difficult to identify undergraduate students' internal motivations from interviews alone.
-Most students do not fully understand what their own goals are or interests since they are not fully aware of what they really want or simply because they had not had much experience with the research field.
+Most students do not fully understand what their own goals are or interests since they are not fully aware of what they really want or simply because they had not had much experience with robotics research.
 Therefore I like to plan the first collaboration project with a student as a "getting to know each other" project.
 However, if you don't have time, e.g., working on a short term project, you will need to rely on your intuition on identifying students' motivations.
 
 #### Step 3: Start collaborating.
 
-Your strategies for collaborating should be dependent on your and your student's goals and the agreed collaboration duration.
-Regardless, in general, I focus on observing a student in earlier stages of collaboration.
-I ask the following questions to myself to decide whether I want to work with the student for a longer term:
+Your collaboration strategies should be dependent on your and your student's goals and the agreed collaboration duration.
+
+In general, I like to take a goal-driven collaboration strategy.
+For example, I set the goals for students and myself for a certain duration and work towards those goals while helping each other.
+This approach particularly worked well for me because by not giving them step-by-step instructions, the students show their original approaches for achieving the assigned project goals as well as their personality.
+The approach also allows me to see whether they can learn from demonstrations.
+Because we are collaborating, they see what I do to solve complex problems (or the problems that are unfamiliar to them) and give them chance to immediate my approach--if it makes sense.
+I focus on demonstrating high-level problem-solving strategies like clearly identifying underspecified goals, breaking down complex goals, and managing one's time and attention span.
+Interestingly, over the years of trying out the goal-driven collaboration, I've learned a lot from the students as well.
+Many students I met had less experience with the field of robotics, however, some of them were just truly gifted human beings and I could learn a lot from their original way of handling the small research projects give to them.
+
+Sometimes, students are not ready to collaborate at all but you still want to or need to work with them.
+In such a case, I give them a small-scoped, independent project and observe what they do.
+I ask the following questions to myself to decide whether I want to work with the student for a longer-term:
 
 - Can they communicate?
 - Can they learn?
-- Can they apply technical skill sets they claimed to have?
+- Can they apply the technical skill sets they claimed to have?
 - Do they find research interesting?
 
-Once I decide to work with a student for a longer term, I use the following approaches to motivate a student:
-
-- Keep reminding the potential impact of the collaboration project.
-- Encourage to use the research project for their graduation requirements, e.g., a project for a project-oriented senior class or senior thesis.
-- Encourage to participate in lab meetings, research seminars and discussions with peers.
-- Encourage to present their work as much as possible--at their class, lab meetings, or even at local meetups.
-
-How do you know your student is engaged?
+How do you know your student is making progress?
 Look at what they do.
 They will demonstrate that they have learned the required skill by applying them properly.
 They will demonstrate that they are excited about the project by spending time on it over the weekend and by proactive contacting you to show what they have done.
+
+Regardless of taking the goal-driven collaboration approach or the giving independent project approach and because my goal for collaborating with students is getting them involved into the world of research, i.e., finding future peers, I like to give them a snapshot of the graduate student lifestyle by encouraging to participate in lab meetings, research seminars and discussions with peers.
+I also encourage them to present the potential impact of the collaboration project in their own words and encourage them to present their work as much as possible--at their class, lab meetings, or even at local meetups.
+If they don't have much time to do research work, I encourage them to use the research project for their graduation requirements, e.g., a project for a project-oriented senior class or senior thesis.
 
 #### Step 4: Say goodbye.
 
