@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 ---
 
-I enjoy thinking about robotics, esp., human-robot interaction.
+I enjoy thinking about robotics, esp., human-robot interaction, problems.
 
 ## Conference Papers
 
