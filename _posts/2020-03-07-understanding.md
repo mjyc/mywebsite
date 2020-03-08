@@ -4,7 +4,7 @@ title: "Understanding Challenges with Large Robotics System Development"
 date: 2020-03-07 00:00:00 -0800
 ---
 
-_Originally published on [GitLab](https://gitlab.com/mjyc/robosysdev-notes/-/blob/master/post.md)_
+_Originally posted on [GitLab](https://gitlab.com/mjyc/robosysdev-notes/-/blob/master/post.md)_
 
 Robotics system development is hard. To understand causes for the robotics system development challenges, I interviewed a few robotics engineers who have been involved in large robotics projects and identified the following themes.
 
@@ -12,7 +12,7 @@ Robotics system development is hard. To understand causes for the robotics syste
 
 As the field of robotics is not matured, it is not easy to find performance libraries for perception, manipulation, human-robot interaction that fits your needs. Many existing off-the-shelve code is research code and hence requires expert knowledge, e.g., a user needs to see through undocumented assumptions and limitations. Essentially, identifying whether they will be useful for your problem is an art of itself.
 
-## There aren't many generalist robotics systems engineer
+## There aren't many generalist robotics systems engineers
 
 Although more robotics educational materials are becoming available, there are not many engineers who can design and implement large robotics systems. Many robotics engineers often focuses on one subfield of robotics engineering such as computer vision or control but does not have much experience with working with the whole system. On the other hands, good systems engineers are often lacks the robotics knowledge and treats robotics libraries as black boxes.
 
