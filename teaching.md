@@ -12,6 +12,9 @@ permalink: /teaching/
 
 ## Mentoring
 
+* Mino Nakura, 2019-2020
+* Anthony Lu, 2019-2020
+* Elana Hummel, 2019-2020
 * Eric Vincent, 2016
 * Max Leigh Martens Glass, 2014-2015
 * Aakash Sethi, 2014-2015
