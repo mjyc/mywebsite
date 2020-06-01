@@ -4,7 +4,8 @@ title: research
 permalink: /research/
 ---
 
-I enjoy thinking about robotics, esp., human-robot interaction, problems.
+My research is on human-robot interaction.
+I particularly enjoy thinking about designing and evaluating end-user programming systems for service or home environment.
 
 ## Conference Papers
 
