@@ -9,6 +9,9 @@
       <a href="{{ site.baseurl }}{{ pdf_link }}">{{ entry.title }}</a>,
       {% break %}
     {% endif %}{% endfor %}
+    {% if entry.title contains "(submitted)" or entry.title contains "(accepted)" %}
+      {{ entry.title }}
+    {% endif %}
     <br>
     {{ entry.author }},
     <br>
