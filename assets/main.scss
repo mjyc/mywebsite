@@ -1,18 +1,15 @@
 ---
 ---
 
-$base-font-family: "Open Sans", Helvetica, Arial, sans-serif !default;
-$base-font-size: 18px !default;
-$base-font-weight: 200 !default;
+$base-font-family: "Lato Light", Helvetica, Arial, sans-serif !default;
+$base-font-size: 16px !default;
 
-$brand-color: #e6550d !default;
+$brand-color: rgb(0, 119, 170) !default; // #07a
 $background-color: white !default;
 
-
+$content-width: 715px !default;
 
 @import "minima";
-
-
 
 /**
  * Links
@@ -28,6 +25,7 @@ a {
   &:hover {
     color: $brand-color;
     text-decoration: underline;
+    // background-color: rgba(51, 181, 229, 0.4);
   }
 
   .social-media-list &:hover {
@@ -39,24 +37,23 @@ a {
   }
 }
 
-
 /**
  * Site header
  */
 .site-header {
   border-top: 0px;
-  border-bottom: 0px;  // 1px solid $grey-color-light;
+  border-bottom: 0px; // 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 
-  a, &:hover {
+  a,
+  &:hover {
     text-decoration: none;
   }
 }
-
 
 /**
  * Bibliography
@@ -69,4 +66,3 @@ a {
 .bib {
   margin-bottom: 0.5rem;
 }
-
