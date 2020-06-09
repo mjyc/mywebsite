@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 My research is on human-robot interaction.
-I particularly enjoy thinking about designing and evaluating end-user programming systems for service or home environment.
+I particularly enjoy thinking about designing and evaluating end-user programming systems for service robots.
 
 ## Conference Papers
 
