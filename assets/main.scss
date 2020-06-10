@@ -10,7 +10,7 @@ $background-color: white !default;
 
 $content-width: 650px !default;
 
-@import "minima";
+@import "minima", "minima/_syntax-highlighting";
 
 /**
  * Links
