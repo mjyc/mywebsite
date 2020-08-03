@@ -13,7 +13,7 @@
       {{ entry.title }}
     {% endif %}
     <br>
-    {{ entry.author }},
+    <span class="authors">{%for author in entry.author_array%}{%if forloop.last%} and {%elsif forloop.first%}{%else%}, {%endif%}{{author.first}} {{author.last}}{%endfor%}</span>
     <br>
     In <i>{{ venue }}</i>, {{ entry.year }}
     <br>
