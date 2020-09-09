@@ -11,6 +11,6 @@ permalink: /personal/
 - [YouTube](https://www.youtube.com/user/MrYTChung)
 - [Vimeo](https://vimeo.com/mjyc)
 - [Instagram](https://www.instagram.com/djmchung/)
-- [Fyusion](https://fyu.se/u/mtastic)
+- [FYUSE](https://fyu.se/u/mtastic)
 - [last.fm](https://www.last.fm/user/mikechung)
 - [SoundCloud](https://soundcloud.com/djmchung)
