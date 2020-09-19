@@ -17,7 +17,7 @@ header_pages:
   - research.md
   - teaching.md
   - blog.md
-  - personal.md
+  - contact.md
 
 # jekyell-scholar settings
 scholar:
