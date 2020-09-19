@@ -1,8 +1,12 @@
 ---
 layout: default
-title: personal
-permalink: /personal/
+title: contact
+permalink: /contact/
 ---
+
+You can find my email address in my [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf).
+
+Sometimes, I hang out in the following places:
 
 - [CodeSandbox](https://codesandbox.io/u/mjyc/)
 - [Glitch](https://glitch.com/@mjyc)
