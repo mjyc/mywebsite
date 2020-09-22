@@ -6,6 +6,8 @@ permalink: /teaching/
 
 ## Mentoring
 
+I was fortunate to meet students who were smarter than me.
+
 * [Mino Nakura](https://www.linkedin.com/in/nakuram/), 2019-2020
 * Anthony Lu, 2019-2020
 * Elana Hummel, 2019-2020
@@ -23,6 +25,8 @@ permalink: /teaching/
 
 ## Outreach
 
+I believe in younger generations.
+
 * Research in Computing Presentation, 2019
 * Engineering Discovery Days, 2018
 * Gyeonggibuk Science High School Students Savioke Visit Day, 2016
@@ -32,6 +36,8 @@ permalink: /teaching/
 * [SSF: The Breath of Computing](https://www.facebook.com/media/set/?set=a.631276730233921.1073741834.416582038370059&type=3), 2013
 
 ## Classes
+
+I previous assisted:
 
 * [CSEP590B Robotics Guest Instructor](https://courses.cs.washington.edu/courses/csep590b/18sp/), 2018
 * [CSE481 Robotics Capstone Course Teaching Assistant](http://courses.cs.washington.edu/courses/cse481c/13au/), 2013
