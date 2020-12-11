@@ -13,6 +13,8 @@ Check out my [blog](./blog), [research](./research), [GitHub](https://github.com
 
 ## Latest
 
-_July 30th, 2020._ I defended my PhD!
+_Nov, 2020._ I accepted an offer from [Vicarious](https://www.vicarious.com/) and will be staring in Jan. 2021!
+
+_July, 2020._ I defended my PhD!
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/pTml6yEIjcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
