@@ -4,7 +4,7 @@ title: "Finishing the Graduate School as a Parent"
 date: 2020-11-15 00:00:00 -0800
 ---
 
-First, don't be a graduate student if you have a child to raise.
+First, don't be a graduate student if you have a child to raise. <-- don't say this; it's not funny
 
 
 <!-- I had a blessing of jobsearching during the global pandemic.
