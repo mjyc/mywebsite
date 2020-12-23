@@ -10,7 +10,7 @@ google_analytics: "UA-142528997-1"
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-scholar
 header_pages:
   - index.md
   - research.md
