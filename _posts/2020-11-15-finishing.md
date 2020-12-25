@@ -6,48 +6,61 @@ date: 2020-11-30 00:00:00 -0800
 
 <!-- Maya & Christian and cite Max & CHristina in the other blog -->
 
-I was working at a graduate student intern at a robotics startup when our son was born.
-As much as we were euphoric about our son's arrival, the (financial) reality hit us hard.
+I was a graduate student when our son was born.
+As much as we were euphoric about my son's arrival, reality hit us hard.
+We were not ready.
+It was brutal but I pulled through the graduate school--with a lot of supports from everywhere--and here is s selected list of tricks I've learned.
 
-#### 1. Ask for help,
+## Buying time
 
-Although the computer science department at the University of Washington provided stripen but it was not enough for raise a child.
+Time became one of the scarcest resouece.
+In my expeirence, taking care of kids under 3-4 demands high physical labors
+bare minimal, preparing food, cleaning tools, dipiers, incesstant crying, etc.
+Gradaute school 
+however, I beleive it requires a lot of time.
+<!-- As someone who liked to work all the time, not being able to required,  -->
 
-Family friend (wife), etc.
+_"No"_
 
-scholarship, etc.
+To buy time, I started saying no to many things; social activities, etc.
+How do you tell what's important, in my case,
 
-#### 2. look for runway (be realistic)
+<!-- "social acticities" -->
+<!-- repetitive meetings -->
+<!-- things that were "for me" -->
+<!-- things that were "for me" -->
 
-time management, etc.
+_Push to future_
+The natural things to do 
+There are problems 
+https://medium.com/bits-and-behavior/how-i-sometimes-achieve-academic-work-life-balance-4bbfc1769820
 
-https://raymondcheng.net/thoughts/time-management.html
+_Buying time_
+It wasnt endough time still.
+Family money.
+Bought time by applying to 
+Aparently there were financial aids, etc., for people.
 
-1. no
+## Letting go
 
-aggressively find all time
+<!-- Related to the first and second thoughts. -->
+<!-- Being okay with MVP. -->
+Like many things, achieving 80~90% state is relatively easy but pushing further requires as much efforts.
+Many times, last 20% is only important if the direction of the project is right.
+It's hard to practice.
+Execute and think about whether that was enough.
+<!-- what's seemingly  -->
 
-#### 3. Attention management and my daily routine
+## Managing attention
 
-Is it essential? What's the impact? %50 or less. but select the best/high impact tasks.
+I said time becomes expensive earlier but really attention becomes really expensive.
 
-2. daily routine
+Only 2~4 hours.
 
-particular skillsets
+## Closing thoughts
 
-meditation eating/sleeping
+Should you do this?
 
-#### 4.
+Not sure if this was worth it.
 
-- be with them... when you need to.
-- really hard to call this; take time off
-
-#### Closing thoughts
-
-Would not have been possible.
-Will I be happy? Is this path right for you? long-term rewards
-
-<!-- I thank Maya Cakmak for . -->
-
-<!-- First, don't be a graduate student if you have a child to raise. <-- don't say this; it's not funny -->
-<!-- I heard about interview process among peers and found resources from BigCo -->
+The time will never come back.
