@@ -4,26 +4,27 @@ title: "Finishing the Graduate School as a Parent"
 date: 2020-11-30 00:00:00 -0800
 ---
 
-I was a graduate student when our son was born.
-As much as we were euphoric about my son's arrival, reality hit us hard.
-We were not ready.
-It was brutal but I pulled through the graduate school and here is s selected list of tricks I've learned from having been a graduate student parent experience.
+I was a graduate student when my son was born.
+As much as I was euphoric about my son's arrival, reality hit me hard.
+I was not ready.
+It was brutal but I pulled through the graduate school and here is s selected list of tricks I've learned from having been a graduate student parent.
 
 ## Buying time
 
-Immediately after becoming a dad, time became one of the scarcest resources.
-The first thing I did to buy more time for research was saying "no", e.g., to social activities, meetings with no clear goal, not-so-related review requests, side projects, system upgrades, etc.
-How did I decide on what activities/projects/commitments to say no to? Initially, it was based on my gut feeling.
-One of the major problems with this approach was that I couldn't tell if I missed interesting and important opportunities that are unforeseeable from the day I said "no".
-One trick I've learned is explicitly allocating time for exploration and update my goals/plans frequently^1.
-Doing this became easier as I became more aware of my own work/research velocity, e.g., by rigorously tracking my time usage and goals for each week, month, and year.
+Time became one of the scarcest resources.
+The first thing I did to buy more time for research was saying "no" to social activities, meetings with no clear goal, not-so-related review requests, side projects, system upgrades, etc. as most parents do.
+I decided what activities/projects/commitments to say no to based on my gut feeling.
+One big problem with this approach was that I couldn't tell if I missed interesting and important opportunities that are unforeseeable from the day I said "no".
+I started to explicitly allocate time for explorations and update my goals/plans frequently to adjust my plans based on findings from the explorations^1.
+Doing this became easier as I became more aware of my own work/research velocity, which I gained slowly by rigorously tracking my time usage and goals for each week/month/year.
 
-I still felt like there wasn't enough time so the second thing I did was securing money, e.g., by asking family members and applying for financial aids available via my department or university.
-I did not know about any financial support opportunities and learned about them by talking to a few other graduate student parents that I didn't know the existence of.
+I still felt like there wasn't enough time for work hence the second thing I tried was securing money, e.g., by asking family members and applying for financial aids available via my department or university.
+I did not know about any financial support opportunities but learned about them as time goes on by talking to a few other graduate student parents that I didn't know the existence of prior to becoming a dad.
 
-The final thing I did was delaying tasks that can be delayed.
-Delaying tasks is great because often delayed tasks disappear completely because of priority changes.
-Initially, I delayed tasks that I was comfortable delaying, such as polishing plots before submitting a paper or renaming variable names in codebase while setting up experiments, but gradually, I started delaying seemingly more important tasks such as polishing related work section (ess., for the initial submission) or optimizing infrastructure/refactoring codebase to save more time and to verify my important hypothesis early.
+The final trick I learned was delaying tasks.
+Delaying tasks is a great trick because often delayed tasks disappear completely due to priority changes.
+In the beginning, I delayed tasks that I was already comfortable delaying, e.g., polishing plots before submitting a paper or renaming variable names in codebase while setting up experiments.
+Gradually, I started delaying seemingly more important tasks such as polishing related work section (ess., for the initial submission) or optimizing infrastructure/refactoring codebase to save more time and to verify my important hypothesis early.
 The most difficult part was knowing what kind of tasks are okay (or not okay) to delay on sight; sometimes delaying seemingly not-so-important tasks comes back after becoming a much bigger task.
 For example, there was a time that I didn't refactor the codebase and a big collaboration happened and team members were bothering me all the time to explain my code.
 This sort of event is unlikely to happen so it was right not to delay the refactoring task but I could have spent time on coming up with a better risk mitigation plan, which is still cheap to do.
