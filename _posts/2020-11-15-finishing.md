@@ -21,19 +21,15 @@ Doing this became easier as I became more aware of my own work/research velocity
 I still felt like there wasn't enough time for work hence the second thing I tried was securing money, e.g., by asking family members and applying for financial aids available via my department or university.
 I did not know about any financial support opportunities but learned about them as time goes on by talking to a few other graduate student parents that I didn't know the existence of prior to becoming a dad.
 
-The final trick I learned was delaying tasks.
+The final trick I learned was delaying tasks^2.
 Delaying tasks is a great trick because often delayed tasks disappear completely due to priority changes.
-In the beginning, I delayed tasks that I was already comfortable delaying, e.g., polishing plots before submitting a paper or renaming variable names in codebase while setting up experiments.
-Gradually, I started delaying seemingly more important tasks such as polishing related work section (ess., for the initial submission) or optimizing infrastructure/refactoring codebase to save more time and to verify my important hypothesis early.
-The most difficult part was knowing what kind of tasks are okay (or not okay) to delay on sight; sometimes delaying seemingly not-so-important tasks comes back after becoming a much bigger task.
-For example, there was a time that I didn't refactor the codebase and a big collaboration happened and team members were bothering me all the time to explain my code.
-This sort of event is unlikely to happen so it was right not to delay the refactoring task but I could have spent time on coming up with a better risk mitigation plan, which is still cheap to do.
-The most difficult part was knowing what kind of tasks are okay (or not okay) to delay on sight; sometimes delaying seemingly not-so-important tasks comes back after becoming a much bigger task.
-For example, there was a time that I didn't refactor the codebase and a big collaboration happened and team members were bothering me all the time to explain my code.
-This sort of event is unlikely to happen so it was right not to delay the refactoring task but I could have spent time on coming up with a better risk mitigation plan, which is still cheap to do.
+In the beginning, I delayed tasks that I felt very comfortable delaying, e.g., polishing plots before submitting a paper or renaming variable names in codebase while setting up experiments.
+Gradually, I started delaying seemingly more important tasks such as polishing related work sections or optimizing infrastructure/refactoring codebases (for initial submissions) essentially to verify get feedback on the more important content earlier, e.g., the main research direction.
+In practice, the most difficult part was knowing what kind of tasks are okay (or not okay) to delay on at first sight; sometimes delaying seemingly not-so-important tasks comes back after becoming a much bigger task.
+To mitigate this risk, I started to put some time to identify the worst consequences of delaying a certain task and prepare _a_ plan for the worst outcomes.
 
 ^1 This trick was somewhat inspired by [GIST Planning](https://www.productplan.com/glossary/gist-planning/) and [Startup Engineering](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf).
-<!-- There are great guidelines like [the Eisenhower matrix](https://www.google.com/search?q=Eisenhower+Matrix&tbm=isch) but  -->
+^2 [The Eisenhower matrix](https://www.google.com/search?q=Eisenhower+Matrix&tbm=isch) is a great task prioritization technique, however, in my experience, applying the technique in practice, specifically, classifying tasks clearly into one of 4 slots, wasn't trivial and hence had a similar problem.
 
 ## Letting go
 
