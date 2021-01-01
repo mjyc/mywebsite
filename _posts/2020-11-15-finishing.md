@@ -31,69 +31,54 @@ To mitigate this risk, I started to put some time to identify the worst conseque
 ^1 This trick was somewhat inspired by [GIST Planning](https://www.productplan.com/glossary/gist-planning/) and [Startup Engineering](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf).
 ^2 [The Eisenhower matrix](https://www.google.com/search?q=Eisenhower+Matrix&tbm=isch) is a great task prioritization technique, however, in my experience, applying the technique in practice, specifically, classifying tasks clearly into one of 4 slots, wasn't trivial and hence had a similar problem.
 
-## Letting go
+## Minimal viable product
 
-After trying to buy as much time as possible for about a year, I made the following observations:
+After trying to buy as much time as possible for about a year or so, I made the following observations:
 
 1. achieving the last 10~20% takes as much more effort as achieving the first 80~90%
 2. re-visiting/working on something always takes much more time than the initial take
-3. there is a huge difference between having something finished vs. not
+3. there is a huge difference between having something finished vs. not, e.g., at least you get a chance to receive feedback
 
-These observations made me want to always shoot for the minimal viable product-level quality.
-When I started to practice achieving the only MVP, I've realized knowing "what is the appropriate quality for the current task at hand?" was actually hard.
-In the past, because I didn't know evaluation criteria very well, I tend to shoot for the high quality just to be safe, which became a very big task (because of 1.) and made me eventually give up on finishing what I've started (which had consequences 3.).
-To address this problem, I spent more time on (1) understanding the evaluation metrics well, and (2) prototyping early to feel the required amount of time to achieve my desired level of quality.
-
-After understanding the evaluation criteria for the MVP, I found using them to efficiently execute something super helpful.
-Another trick I used was holding my breath and split once without looking back.
+These observations made me want to always shoot for the minimal viable product (MVP).
+In the past, I tended to overshoot because I didn't understand the evaluation criteria well and hence wanted to be "safe" by achieving an arbitrary high quality, which was an extremely expensive approach because of 1. and 3. (sometimes I gave up when a task became too big).
+To address this problem, I spent more time on (1) understanding the evaluation metrics well, and (2) prototyping early to feel out the requirements in the context.
+After clearly defining the evaluation metrics for the MVP, I found using them to efficiently execute something to the completion super helpful, esp., towards the end when I'm tired.
+<!-- Another small trick I used was holding my breath and split once without looking back. -->
 
 ## Managing attention
 
-After missing countless deadlines--even with doing everything I could do (i.e., the tricks mentioned above)--and taking bullets of the consequences, I've realized that the most important resource is my attention, which I only have about 2~4 hours per week, and not necessarily the time.
+After having countless sleepless nights and physically demanding days, I've realized the most expensive resource was my attention and not the time.
+The quality of my attention was not only dependent on my physiological conditions but also my surrounding environment, e.g., the amount of natural light, my team's mood, etc.
+With everything going on, I usually only had about 2hrs of the peak attention per day; 4hrs if lucky.
 
-It's more expensitve because it's also highly dependent on multiple factors such as my health, my environment, my team's health many of which I don't have control of. 
+To best use this time, I identified the most likely time of the day that I have the best attention and protect that time slot for the most important tasks.
+Whenever I face a big task, I would start breaking it down and think about different approaches while I'm away from the desk, e.g., while commuting, picking up or dropping off my son, etc.
+Usually, the most important tasks such as core algorithm/system design, initial draft writing, big meeting/presentation, etc. reveal themselves^2.
+These tasks require deeply exploring many ideas with caution to make a big dent towards a knotty problem^3, so I used my protected time to only work on these tasks.
+I used times with a medium level of attention for execution tasks; I used to do execution tasks in the protected hours but with well-thought-out approaches, execution tasks didn't require as much attention as the core problem-solving tasks.
+Finally, everything else, emailing and scheduling, resolving meeting topics, writing down new problem-solving approaches were done on foot, e.g., while watching my son at the park.
 
-I started to think how to best use this time.
-In addition to tricks I mentioned above I
-
-1. identified most likely time of the day that I have best attention
-2. set up my tools to moved unimportant tasks such as scheduling, responding things, 
-   - for example, use mobile friendly tools to be able to d
-3. identify which tasks requires full attention and not.
-
-For example, 
-
-With this setup, 
-1. when I face a new problem, I would start breaking down the problem  and when I don't have full attention or whenever I'm not in front of the computer and write down steps
-
-2. then try to solve these problems. This is where the most case 
-   - requires mentally exploring number of cases while feeling some of dangers of exploring certain ideas to avoid getting stuck
-   - might have solved problems or not
-
-3. execute, if you have concorete solution, you just need to execute
+^2. Often, combined smaller tasks such as a task decomposition task combined with an execution task also required my full attention.
+^3. I consider these tasks as combinatorial optimization problems and try to act like well-known algorithms such as branch and bound or iterative deepening when exploring paths to solutions.
 
 ## Closing thoughts
 
-First, 
+Even after trying all the different tricks, I still missed countless deadlines and took countless bullets of consequences.
+When I felt like I hit my limits, the only thing I could do was changing my mentality.
+I accepted my limit, lowered bars for myself, thought about the meaning of what I'm desperately chasing after in the grand skim of things, and try to enjoy the process more.
 
-Haven't achieved reliied big time on my family, e.g. my wife for taking care of 
+Time to time, I ask myself--was it all worth it?
+As much as I try rewiring my brain to reply with "yes" to that question, I cannot bring back the times I missed with my family and I'll always feel the guilt of not being around much (physically or mentally) when my son needed me the most.
+Yet, I'm working on this blog post while watching my son at a playground.
 
-First, I'm not sure whac t I did was the 11q=
+### Acknowledgments
 
-Should you do this?
+I consciously and unconsciously picked up the habits of the other super parents who I closely worked with and had much more responsibility than me like my grad school advisor [Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/), and my past team leader [Christian Fritz](http://chfritz.github.io/).
 
-Not sure if this was worth it.
-
-The time will never come back.
-
-## Related blog posts
-
+I decided to write this blog post when I discovered the existence of similar blog posts from authors I respect:
 - ["How I (sometimes) achieve academic work life balance"](https://medium.com/bits-and-behavior/how-i-sometimes-achieve-academic-work-life-balance-4bbfc1769820) by Amy Ko
 - ["Time Management"](https://raymondcheng.net/thoughts/time-management.html) by Raymond Cheng
 - ["Appropriate Quality"](https://maxwellforbes.com/posts/appropriate-quality) by Maxwell Forbes
 
-## Acknowledgments
-
-I closely observed other parents who were super productive while having much more responsibility than I did like [Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/), and [Christian Fritz](http://chfritz.github.io/), the team lead in my previous company as I closely observe.
-I also deeply thank my wife Ka Young Kim 
-<!-- I thank the other parents around me at Svaioke  who inspired me. -->
+Last but not least, I have to disclose that I relied a lot on my wife who sacrificed her time for watching our son.
+This note might change the perspective/legitimacy of all tricks I mentioned above.
