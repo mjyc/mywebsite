@@ -4,7 +4,9 @@ title: contact
 permalink: /contact/
 ---
 
-You can find my email address in my [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf).
+You can find my email address in my [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf) or [LinkedIn profile](https://www.linkedin.com/in/michaeljaeyoonchung/).
+I try to share my code on [GitHub](https://github.com/mjyc) and [GitLab](https://gitlab.com/mjyc).
+I sometimes share robotics news on [Twitter](https://twitter.com/mjyc_/).
 
 Sometimes, I hang out in the following places:
 

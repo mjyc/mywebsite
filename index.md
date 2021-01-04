@@ -9,7 +9,9 @@ My research areas of focus are human-robot interaction and robotics engineering.
 
 I hope to create tools that enable non-robotics experts to comfortably discover, create, maintain interactive robot applications that bring values.
 
-Check out my [blog](./blog), [research](./research), [GitHub](https://github.com/mjyc)/[GitLab](https://gitlab.com/mjyc), [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf), [LinkedIn profile](https://www.linkedin.com/in/michaeljaeyoonchung/), or [this self-introduction video (3min)](https://youtu.be/7iiVnq2Le6w). I also share robotics news on [Twitter](https://twitter.com/mjyc_/).
+Check out my [3min self-introduction video](https://youtu.be/7iiVnq2Le6w) or [blog](./blog).
+I graduated from the University of Washington in 2020 where I worked on [social robot programming](./research).
+Here's my [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf).
 
 ## Latest
 
