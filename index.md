@@ -15,6 +15,8 @@ Here's my [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoo
 
 ## Latest
 
+_Feb, 2021._ [Vaibhav Phadnis](https://www.linkedin.com/in/vaibhav-phadnis-4637b84/) and I stepped up as [ROS Seattle co-organizers]() and organized [the first event of 2021](https://www.meetup.com/ROS-Seattle/events/276312772/)!
+
 _Nov, 2020._ I accepted an offer from [Vicarious](https://www.vicarious.com/) and will be staring in Jan. 2021!
 
 _July, 2020._ I defended my PhD!
