@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finishing the Graduate School as a Parent"
+title: "Finishing the Graduate School as a New Dad"
 date: 2020-11-30 00:00:00 -0800
 ---
 
@@ -73,7 +73,7 @@ Yet, I'm working on this blog post while watching my son at a playground.
 
 ### Acknowledgments
 
-I consciously and unconsciously picked up the habits of the other super parents who I closely worked with and had much more responsibility than me like my grad school advisor [Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/), and my past team leader [Christian Fritz](http://chfritz.github.io/).
+I consciously and unconsciously picked up the habits of other parents who I closely worked with and had much more responsibility than me like my grad school advisor [Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/), and my past team leader [Christian Fritz](http://chfritz.github.io/).
 
 I decided to write this blog post when I discovered the existence of similar blog posts from authors I respect:
 - ["How I (sometimes) achieve academic work life balance"](https://medium.com/bits-and-behavior/how-i-sometimes-achieve-academic-work-life-balance-4bbfc1769820) by Amy Ko
