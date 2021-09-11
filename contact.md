@@ -12,7 +12,7 @@ Sometimes, I hang out in the following places:
 
 - [CodeSandbox](https://codesandbox.io/u/mjyc/)
 - [Glitch](https://glitch.com/@mjyc)
-- [ROS DEVELOPMENT STUDIO](https://rds.theconstructsim.com/r/mchung/)
+- [ROS DEVELOPMENT STUDIO](https://app.theconstructsim.com/#/Profile/mjyc)
 - [stackoverflow](https://stackoverflow.com/users/3465586/mike-chung)
 - [Speaker Deck](https://speakerdeck.com/mikechung)
 - [YouTube](https://www.youtube.com/user/MrYTChung)
