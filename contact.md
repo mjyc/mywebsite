@@ -5,11 +5,10 @@ permalink: /contact/
 ---
 
 You can find my email address in my [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf) or [LinkedIn profile](https://www.linkedin.com/in/michaeljaeyoonchung/).
-I try to share my code on [GitHub](https://github.com/mjyc) and [GitLab](https://gitlab.com/mjyc).
-I sometimes share robotics news on [Twitter](https://twitter.com/mjyc_/).
 
-Sometimes, I hang out in the following places:
+I try to share my code on [GitHub](https://github.com/mjyc) and [GitLab](https://gitlab.com/mjyc) and share robotics news on [Twitter](https://twitter.com/mjyc_/).
 
+You can also find me at:
 - [CodeSandbox](https://codesandbox.io/u/mjyc/)
 - [Glitch](https://glitch.com/@mjyc)
 - [ROS DEVELOPMENT STUDIO](https://app.theconstructsim.com/#/Profile/mjyc)
@@ -21,3 +20,5 @@ Sometimes, I hang out in the following places:
 - [FYUSE](https://fyu.se/u/mtastic)
 - [last.fm](https://www.last.fm/user/mikechung)
 - [SoundCloud](https://soundcloud.com/djmchung)
+- [DEV](https://dev.to/mjyc)
+- [Medium](https://medium.com/@roboticsmike)

@@ -8,6 +8,7 @@ permalink: /teaching/
 
 I was fortunate to meet students who were smarter than me.
 
+* Hita Kambhamettu, 2021
 * [Mino Nakura](https://www.linkedin.com/in/nakuram/), 2019-2020
 * Anthony Lu, 2019-2020
 * Elana Hummel, 2019-2020
