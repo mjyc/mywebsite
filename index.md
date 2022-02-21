@@ -9,6 +9,8 @@ Check out my [3min self-introduction video](https://youtu.be/7iiVnq2Le6w) or [CV
 
 ## Latest
 
+_Dec, 2021._ I shared [awesome-hri-papers-for-industry](https://github.com/mjyc/awesome-hri-papers-for-industry) and [awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects)!
+
 _Nov, 2021._ [Hita](https://hita-k.github.io/) presented her research work with me, [Vinitha](https://vinitha910.github.io/), and [Patrícia](https://www.patricialvesoliveira.com/) at [PLATEAU](https://2021.plateau-workshop.org/)!
 
 _July, 2021._ Recorded past ROS Seattle talks are now available on [YouTube](https://youtube.com/playlist?list=PLznkdfD7hD6Jnue9gvPY6CHcr3AvgmmEv)!
