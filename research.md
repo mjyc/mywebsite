@@ -10,13 +10,13 @@ Here is my dissertation, _[Enabling End-Users to Create Real-World Robot Applica
 My [Google Scholar](https://scholar.google.com/citations?user=avud6aAAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Michael_Jae_Yoon_Chung) profiles provides other views of my publications.
 I also share my slides on [Speaker Deck](https://speakerdeck.com/mikechung) and research-related videos on [YouTube](https://www.youtube.com/channel/UCVTGLwpBhWGKpf6R5jdc-dQ) and [Vimeo](https://vimeo.com/mjyc).
 
+## Workshop Papers and Posters
+
+{% bibliography -f workshop --query @* %}
+
 ## Conference Papers
 
 {% bibliography --query @* %}
-
-## Other Peer-reviewed Papers and Posters
-
-{% bibliography -f workshop --query @* %}
 
 ## Media coverage
 
