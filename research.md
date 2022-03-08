@@ -18,6 +18,6 @@ I also share my slides on [Speaker Deck](https://speakerdeck.com/mikechung) and 
 
 {% bibliography --query @* %}
 
-## Media coverage
+## Media Coverage & Talks
 
 {% bibliography -f media --query @* %}
