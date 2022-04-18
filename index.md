@@ -9,7 +9,7 @@ Check out my [3min self-introduction video](https://youtu.be/7iiVnq2Le6w) or [CV
 
 ## Latest
 
-_Mar, 2022._ I participated in HRI2022 by presenting at [PD/EUP workshop](https://docs.google.com/presentation/d/19-rrMo9cqr4DVyINK4z0qzI6AU7ZG9lom_8kDhuVbMU), [LSI workshop](https://docs.google.com/presentation/d/16itKs8q9MWtcLc8hPFg1UFi5DOFii-84n9FiejR7F7Q), and [late breaking-report session](https://docs.google.com/presentation/d/1HqfWnWAeIQZPE6hUfjetBuBATtKPKVw2hUcGp21-P34).
+_Mar, 2022._ I participated in HRI2022 by presenting at [PD/EUP workshop](https://docs.google.com/presentation/d/19-rrMo9cqr4DVyINK4z0qzI6AU7ZG9lom_8kDhuVbMU), [LSI workshop](https://docs.google.com/presentation/d/1VY1IZ9D-hrjn-D8cvgSOFIlG6jCh_YCMxolmh0IQ_ak), and [late breaking-report session](https://docs.google.com/presentation/d/1HqfWnWAeIQZPE6hUfjetBuBATtKPKVw2hUcGp21-P34).
 
 _Dec, 2022._ I shared [awesome-hri-papers-for-industry](https://github.com/mjyc/awesome-hri-papers-for-industry) and [awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects)!
 
