@@ -7,15 +7,15 @@ date: 2018-11-08 00:00:00 -0800
 _Originally published on [Medium](https://medium.com/@chungjy9/implementing-a-finite-state-machine-in-cycle-js-c498b6cfb231)_
 
 > _**Note:** Check out other posts on programming a social robot using Cycle.js too:_
-> _1. [Programming a social robot using Cycle.js](https://dev.to/mjyc/programming-a-social-robot-using-cyclejs-23jl)_
-> _2. [Implementing a finite state machine in Cycle.js](https://dev.to/mjyc/implementing-a-finite-state-machine-in-cyclejs-1e63)_
+> _1. [Programming a social robot using Cycle.js]({% post_url 2018-11-01-programming %})_
+> _2. [Implementing a finite state machine in Cycle.js]({% post_url 2018-11-08-implementing %})_
 
-In this post, I'll show you how to implement a reactive social robot program as a [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine). We'll continue from where we left off in the previous post [Programming a social robot using Cycle.js](./programming_socialrobot_with_cyclejs.md)--so check it out if you haven't already! If you are in a hurry, here is the [demo and complete code](https://stackblitz.com/edit/cycle-robot-drivers-tutorials-02-fsm) of what we are building in this post.
+In this post, I'll show you how to implement a reactive social robot program as a [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine). We'll continue from where we left off in the previous post [Programming a social robot using Cycle.js]({% post_url 2018-11-01-programming %})--so check it out if you haven't already! If you are in a hurry, here is the [demo and complete code](https://stackblitz.com/edit/cycle-robot-drivers-tutorials-02-fsm) of what we are building in this post.
 
 
 ## Making existing "travel personality quiz" program more complex
 
-[Previously](./programming_socialrobot_with_cyclejs.md), we programmed a [tablet-face robot](https://github.com/mjyc/tablet-robot-face) to test your travel personality. Concretely, we implemented a tablet-face robot program that
+[Previously]({% post_url 2018-11-01-programming %}), we programmed a [tablet-face robot](https://github.com/mjyc/tablet-robot-face) to test your travel personality. Concretely, we implemented a tablet-face robot program that
 
 1. looks at a person when it sees one and
 1. asks travel personality quiz questions as shown in [this flowchart](http://www.nomadwallet.com/afford-travel-quiz-personality/)
