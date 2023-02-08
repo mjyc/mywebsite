@@ -4,8 +4,8 @@ title: about
 ---
 
 Hello, I'm Mike.
-I build tools for programming interactive robots in human environments.
-Check out my [3min self-introduction video](https://youtu.be/7iiVnq2Le6w) or [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf).
+I build tools for programming/managing robots.
+Check out my [resume]({{ site.baseurl }}/assets/pdfs/Resume - Michael Jae-Yoon Chung.pdf).
 
 ## Latest
 

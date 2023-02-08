@@ -4,10 +4,11 @@ title: contact
 permalink: /contact/
 ---
 
-You can find my email address in my [CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf) or [LinkedIn profile](https://www.linkedin.com/in/michaeljaeyoonchung/).
-I share my code on [GitHub](https://github.com/mjyc) and [GitLab](https://gitlab.com/mjyc) and random thoughts on [Twitter](https://twitter.com/mjyc_/).
-
-You can also find me at:
+My work email address is in my [resume]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf). You can also find me at:
+- [LinkedIn](https://www.linkedin.com/in/michaeljaeyoonchung/)
+- [Twitter](https://twitter.com/mjyc_/)
+- [GitHub](https://github.com/mjyc)
+- [GitLab](https://gitlab.com/mjyc)
 - [CodeSandbox](https://codesandbox.io/u/mjyc/)
 - [Glitch](https://glitch.com/@mjyc)
 - [ROS DEVELOPMENT STUDIO](https://app.theconstructsim.com/#/Profile/mjyc)

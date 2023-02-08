@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## Mentoring
 
-I was fortunate to meet students who were smarter than me.
+I am fortunate to meet amazing students.
 
 * Hita Kambhamettu, 2021
 * [Mino Nakura](https://www.linkedin.com/in/nakuram/), 2019-2020
