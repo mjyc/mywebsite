@@ -14,9 +14,7 @@ plugins:
 header_pages:
   - index.md
   - research.md
-  - teaching.md
   - blog.md
-  - contact.md
 
 # jekyell-scholar settings
 scholar:
