@@ -6,7 +6,6 @@ twitter_username: mjyc_
 github_username: mjyc
 google_analytics: "UA-142528997-1"
 
-# Build settings
 markdown: kramdown
 theme: minima
 plugins:
@@ -16,7 +15,6 @@ header_pages:
   - research.md
   - blog.md
 
-# jekyell-scholar settings
 scholar:
   bibliography_template: "bib"
   repository: "/assets/pdfs"
