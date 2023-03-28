@@ -4,10 +4,13 @@ title: about
 ---
 
 Hello, I'm Mike.
-I build tools for programming/managing robots.
-Check out my [resume]({{ site.baseurl }}/assets/pdfs/Resume - Michael Jae-Yoon Chung.pdf)/[CV]({{ site.baseurl }}/assets/pdfs/Curriculum Vitae - Michael Jae-Yoon Chung.pdf).
+I build tools for programming or operating robots.
+Check out my [resume]({{ site.baseurl }}/assets/pdfs/Resume - Michael Jae-Yoon Chung.pdf).
 
-You can also find me on [Twitter](https://twitter.com/mjyc_/)/[LinkedIn](https://www.linkedin.com/in/michaeljaeyoonchung/). I try to share my code on [GitHub](https://github.com/mjyc)/[CodeSandbox](https://codesandbox.io/u/mjyc/). I sometimes post my dev notes on [DEV](https://dev.to/mjyc). Check out [what I've been listening to lately](https://www.last.fm/user/mikechung).
+You can find me on [LinkedIn](https://www.linkedin.com/in/michaeljaeyoonchung/).
+I try to share my code on [GitHub](https://github.com/mjyc).
+I sometimes post my ideas/random stuff on [DEV](https://dev.to/mjyc).
+You can see what I've been listening to lately on [last.fm](https://www.last.fm/user/mikechung).
 
 ## Latest
 
