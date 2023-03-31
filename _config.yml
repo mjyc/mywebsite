@@ -12,8 +12,8 @@ plugins:
   - jekyll-scholar
 header_pages:
   - index.md
-  - research.md
   - blog.md
+  - research.md
 
 scholar:
   bibliography_template: "bib"
